@@ -11,7 +11,7 @@
 
 + GitHub: 
   +  If you are new to the Git world, use the steps [here](https://github.com/git-guides/install-git) to install git in your machine. 
-  +  Once installed, clone this repo using `git clone git@github.ibm.com:DEBANJANA-Kar1/IBM_IEEE_NLPTutorial.git`
+  +  Once installed, clone this repo using `git clone git@github.com:DebanjanaKar/IBM_IEEE_NLPTutorial.git`
   +  Next step: `cd IBM_IEEE_NLPTutorial`
 
 + Finally install the required python packages using: `pip install -r requirements.txt`
