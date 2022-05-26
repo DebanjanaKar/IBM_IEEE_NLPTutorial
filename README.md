@@ -15,3 +15,8 @@
   +  Next step: `cd IBM_IEEE_NLPTutorial`
 
 + Finally install the required python packages using: `pip install -r requirements.txt`
+
+
+## Dataset: 
+
+We will be using the News Category Dataset. It contains headlines and news descriptions for 30 different categories from HuffPost articles from 2012 to 2018. Please download the dataset from [this link](https://www.kaggle.com/datasets/rmisra/news-category-dataset) and place the json file in the cloned `IBM_IEEE_NLPTutorial` folder.
