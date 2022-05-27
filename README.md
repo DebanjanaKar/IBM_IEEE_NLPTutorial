@@ -13,6 +13,7 @@
   +  If you are new to the Git world, use the steps [here](https://github.com/git-guides/install-git) to install git in your machine. 
   +  Once installed, clone this repo using `git clone git@github.com:DebanjanaKar/IBM_IEEE_NLPTutorial.git`
   +  Next step: `cd IBM_IEEE_NLPTutorial`
+  +  You can use the code in this repo without installing Git as well by downloading the zip version from [here](https://github.com/DebanjanaKar/IBM_IEEE_NLPTutorial/archive/refs/heads/master.zip).
 
 + Finally install the required python packages using: `pip install -r requirements.txt`
 
